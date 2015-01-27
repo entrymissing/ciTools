@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="1199e55d-a001-4c40-a3f5-e71be6163be8" kpf_version="5" name="CITools.komodoproject">
+<preference-set idref="1199e55d-a001-4c40-a3f5-e71be6163be8" id="project" preftype="project">
+  <string id="jshint_linter_chooser">default</string>
+  <string id="jslint_linter_chooser">default</string>
+  <long id="tabWidth">4</long>
+</preference-set>
+</project>
